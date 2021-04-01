@@ -1,0 +1,3 @@
+﻿  TrabajoFinal_UTN.cpp
+C:\Users\Usuario\Desktop\Curso C++\TrabajoFinal_UTN\TrabajoFinal_UTN\TrabajoFinal_UTN.cpp(24,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  TrabajoFinal_UTN.vcxproj -> C:\Users\Usuario\Desktop\Curso C++\TrabajoFinal_UTN\Debug\TrabajoFinal_UTN.exe
